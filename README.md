@@ -101,12 +101,12 @@
 <br/>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hinerumasato&theme=dayfox&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=hinerumasato&theme=dayfox&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/hinerumasato">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hinerumasato&theme=buefy" alt="Masato's GitHub Contribution"/>
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hinerumasato&theme=buefy" alt="Masato's GitHub Contribution"/>
   </a>
 </p>
 
