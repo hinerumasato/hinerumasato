@@ -113,8 +113,8 @@
 </p>
 
 <a> 
-    <a href="https://github.com/hinerumasato"><img alt="Masato's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hinerumasato&show_icons=true&count_private=true&theme=react" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/hinerumasato"><img alt="Masato's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hinerumasato&langs_count=8&layout=compact&theme=react" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/hinerumasato"><img alt="Masato's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hinerumasato&show_icons=true&count_private=true" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/hinerumasato"><img alt="Masato's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hinerumasato&langs_count=8&layout=compact" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
