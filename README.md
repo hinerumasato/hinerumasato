@@ -101,20 +101,18 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/hinerumasato">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hinerumasato" alt="Masato's GitHub streak"/>
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hinerumasato&theme=dayfox&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/hinerumasato">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hinerumasato" alt="Masato's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hinerumasato&theme=buefy" alt="Masato's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/hinerumasato"><img alt="Masato's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hinerumasato&show_icons=true&count_private=true" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/hinerumasato"><img alt="Masato's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hinerumasato&langs_count=8&layout=compact" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/hinerumasato"><img alt="Masato's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hinerumasato&show_icons=true&count_private=true&theme=buefy" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/hinerumasato"><img alt="Masato's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hinerumasato&langs_count=8&layout=compact&theme=buefy" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
